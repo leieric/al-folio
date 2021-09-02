@@ -2,10 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+As a teaching assistant:
 
-Organize your courses by years, topics, or universities, however you like!
+<p>
+ESE 402/542: Statistics for Data Science: Fall 2021 (head TA, Penn) <br>
+ECE 3100: Introduction to Probability: Spring 2020 (Cornell) <br>
+CS 4780: Machine Learning for Intelligent Systems: Fall 2019 (Cornell) <br>
+ECE 2300: Digital Logic and Computer Organization: Fall 2018 (Cornell) <br>
+ECE 1210: The Computing Technology Inside Your Smartphone: Spring 2018, 2019 (Cornell) <br>
+</p>
